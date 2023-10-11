@@ -1,2 +1,2 @@
 1. Hello 
-![](test.drawio.svg)
+![](/test.drawio.svg)
